@@ -9,6 +9,7 @@
   },
   "repository": "https://github.com/phogbinh/electron-tutorial",
   "author": "phongbinht <phongbinht@synology.com>",
+  "description": "A tutorial app for Electron",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^7.2.0",
