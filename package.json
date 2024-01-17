@@ -1,0 +1,8 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/phogbinh/electron-tutorial",
+  "author": "phongbinht <phongbinht@synology.com>",
+  "license": "MIT"
+}
